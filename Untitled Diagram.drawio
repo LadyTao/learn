@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T03:25:25.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R_QJFSwhy_aMi_pfwrDB" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-01T03:51:57.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gPwOStC2cMG9faoNoJce" version="20.0.4" type="github">
   <diagram id="Rgu9b10L2iE2rET0YDp5" name="Page-1">
-    <mxGraphModel dx="2061" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u8LPxlXHGQV877NEv3iW-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Helvetica;fontSize=17;fillColor=#FFFFCC;strokeColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="835" y="535" width="160" height="130" as="geometry" />
+          <mxGeometry x="835" y="535" width="155" height="95" as="geometry" />
         </mxCell>
         <mxCell id="u8LPxlXHGQV877NEv3iW-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fontFamily=Helvetica;fontSize=17;fillColor=#FFFFCC;strokeColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="650" y="535" width="160" height="130" as="geometry" />
@@ -407,9 +407,6 @@
         </mxCell>
         <mxCell id="u8LPxlXHGQV877NEv3iW-25" value="&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;APT2-txn-transaction_tab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="655" y="630" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u8LPxlXHGQV877NEv3iW-26" value="&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;APT2-txn-transaction_tab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=17;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="840" y="630" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
