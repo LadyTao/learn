@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T03:04:52.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6WY_nypEabCGG5g9yfMx" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T03:35:04.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qH-U4M8q2v35cDvVamiK" version="20.1.1" type="github">
   <diagram id="Rgu9b10L2iE2rET0YDp5" name="Page-1">
-    <mxGraphModel dx="2061" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2493" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,28 +424,46 @@
           <mxGeometry x="-183.64" y="1080" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-3" value="&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;shopeepay_user_engine&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;transaction_tab&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="1070" width="255" height="40" as="geometry" />
+          <mxGeometry x="190" y="1070" width="255" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pQwVAWviluEdPdVqKTF4-4" value="&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;wallet_db&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;transaction_tab&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="1140" width="255" height="40" as="geometry" />
+        <mxCell id="pQwVAWviluEdPdVqKTF4-4" value="&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;u&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;wallet_db&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;transaction_tab&lt;/span&gt;&lt;/u&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1129" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-5" value="&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;acquiring_transaction&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;transaction_tab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="1210" width="255" height="40" as="geometry" />
+          <mxGeometry x="190" y="1290" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-6" value="&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;airpay_payment_txn&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;txn_order_tab&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="1280" width="255" height="40" as="geometry" />
+          <mxGeometry x="190" y="1210" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-7" value="&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;shopeepay_promotion&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;promotion_item_tab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="1070" width="255" height="40" as="geometry" />
+          <mxGeometry x="715" y="1070" width="255" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-8" value="&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;shopeepay_promotion&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;estart_awardings_tab&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="1129" width="280" height="40" as="geometry" />
+          <mxGeometry x="720" y="1150" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-9" value="&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;airpay_promotion_db&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;promo_refund_resource_tab&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="735" y="1210" width="300" height="40" as="geometry" />
+          <mxGeometry x="715" y="1210" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pQwVAWviluEdPdVqKTF4-11" value="&lt;span style=&quot;background-color: rgb(204, 204, 204);&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;airpay_promotion_db&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px; text-align: left;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(23, 43, 77); font-family: Arial; font-size: 15px; text-align: left;&quot;&gt;promo_resource_tab&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="735" y="1280" width="300" height="40" as="geometry" />
+          <mxGeometry x="715" y="1280" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQwVAWviluEdPdVqKTF4-12" value="&lt;b&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;WS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-103.64" y="960" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQwVAWviluEdPdVqKTF4-13" value="&lt;b&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;AS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="285" y="960" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQwVAWviluEdPdVqKTF4-14" value="&lt;b&gt;&lt;font style=&quot;background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Promo&lt;/font&gt;&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="807.5" y="960" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQwVAWviluEdPdVqKTF4-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;WS完全切换到新系统，旧系统表中只有历史数据；&lt;br&gt;th/vn的旧系统数据会merge到新系统表中（进行中）；&lt;br&gt;id/sg/my/ph旧系统数据暂时不会merge；&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-183.64" y="1200" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pQwVAWviluEdPdVqKTF4-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;新老系统没有完全切换，目前大部分数据是进入了老系统表（wallet和engin）；&lt;br&gt;新系统表数据只占一小部分；&lt;br&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;wallet_db&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;transaction_tab 表中除了AS数据（payment和refund），&lt;br&gt;还有Promotion数据（cashback和rollback_cashback）&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1350" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pQwVAWviluEdPdVqKTF4-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;estart_awaring表迁移到WS这边的&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;engine_fund_transaction（estart_awarding旧数据已经倒入新表）；&lt;br&gt;&lt;/span&gt;promotion_item表迁移到WS的&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;engine_fund_transaction&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;（promo_item旧数据已经倒入新表）&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;；&lt;br&gt;他与AS公用一张&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;wallet_db&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;transaction_tab表，promotion不再往这个表写新数据，而是往&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;WS新表写数据（新表只有新数据）；&lt;br&gt;&lt;br&gt;总结：promotion新表全都由&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;engine_fund_transaction覆盖。airpay旧表依旧不变。&lt;/span&gt;&lt;span style=&quot;font-family: Arial; font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1335" width="600" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
